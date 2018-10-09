@@ -17,3 +17,7 @@ Techniques used in chess AI:
 
 3.	Minimax value is calculated. That is, the AI will only take opponent moves that lead to the most disadvantage situation into 
 	consideration. And it will try to find the most advantageous move from the most disadvantageous situation.
+
+Copyright/Attribution Notice: 
+	Art Credit: Nem_ 
+	Lisence: CC-BY-SA 3.0
